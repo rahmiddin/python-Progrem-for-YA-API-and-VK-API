@@ -6,7 +6,7 @@ from VK_API import largest_photo_url
 
 
 VK_TOKEN = 'a67f00c673c3d4b12800dd0ba29579ec56d804f3c5f3bbcef5328d4b3981fa5987b951cf2c8d8b24b9abd'
-OAUTH_TOKEN = 'AQAAAAA6V87mAADLW1dKDlEyvUKgtP9prsHI_TY'
+OAUTH_TOKEN = ''
 VK_URL = 'https://api.vk.com/method/photos.get'
 HOST = 'https://cloud-api.yandex.net/v1/disk/resources/upload/'
 BASE_PATH = os.getcwd()
